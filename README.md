@@ -28,7 +28,7 @@
 葛坑申购人员分布
 ![葛坑申购人员分布](img/town_gekeng.png)
 
-# 1.申购人员年龄分布
+# 2.申购人员年龄分布
 
 申购最多的年龄段分布在30-35年龄段，最大申购的年龄是76岁。
 
@@ -42,6 +42,13 @@
 系统：MacOS Mojave
 
 Python3.6 + Conda
+
+
+代码地址：
+``` 
+https://github.com/fredliu168/HouseBuyDehua
+```
+
 
 激活环境
 ```
